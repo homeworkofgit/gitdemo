@@ -8,3 +8,5 @@ a=int(input())
 b=int(input())
 x=input()
 if(x=='+'): print(a+b)
+
+if(x=='*'): print(a*b)
